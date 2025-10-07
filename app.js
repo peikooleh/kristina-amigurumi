@@ -32,7 +32,7 @@ if (!__savedTheme) {
 }
 applyTheme(__savedTheme);
 
-const PAGE_SIZE = 25;
+const PAGE_SIZE = 24;
 const PHOTOS_MANIFEST = 'photos/photos.json';
 
 const LANGS = ['ru','uk','en','de','fr'];
