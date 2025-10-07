@@ -1,0 +1,53 @@
+{
+  "title": {
+    "ru": "Кристина амигуруми",
+    "uk": "Крістіна амігурумі",
+    "en": "Kristina amigurumi",
+    "de": "Kristina amigurumi",
+    "fr": "Kristina amigurumi"
+  },
+  "subtitle": {
+    "ru": "вязаные игрушки крючком — ручная работа",
+    "uk": "в'язані іграшки гачком — ручна робота",
+    "en": "crocheted toys — handmade",
+    "de": "gehäkelte Spielzeuge — Handarbeit",
+    "fr": "jouets crochetés — faits main"
+  },
+  "footer_line1": {
+    "ru": "🧵 Амигуруми — маленькие радости, связанные с теплом.",
+    "uk": "🧵 Амігурумі — маленькі радощі, пов’язані з теплом.",
+    "en": "🧵 Amigurumi — little joys stitched with warmth.",
+    "de": "🧵 Amigurumi – kleine Freuden, mit Wärme gehäkelt.",
+    "fr": "🧵 Amigurumi — de petites joies tricotées avec chaleur."
+  },
+  "footer_line2": {
+    "ru": "© {year} • Контакты: peiko.kristina@gmail.com",
+    "uk": "© {year} • Контакти: peiko.kristina@gmail.com",  
+    "en": "© {year} • Contacts: peiko.kristina@gmail.com",
+    "de": "© {year} • Kontakte: peiko.kristina@gmail.com",
+    "fr": "© {year} • Contacts: peiko.kristina@gmail.com"
+  },
+  "ui": {
+    "theme_light": {
+      "ru": "Светлая тема",
+      "uk": "Світла тема",
+      "en": "Light theme",
+      "de": "Helles Thema",
+      "fr": "Thème clair"
+    },
+    "theme_dark": {
+      "ru": "Тёмная тема",
+      "uk": "Темна тема",
+      "en": "Dark theme",
+      "de": "Dunkles Thema",
+      "fr": "Thème sombre"
+    },
+    "lang": {
+      "ru": "Язык интерфейса",
+      "uk": "Мова інтерфейсу",
+      "en": "Interface language",
+      "de": "Sprache der Oberfläche",
+      "fr": "Langue de l’interface"
+    }
+  }
+}
