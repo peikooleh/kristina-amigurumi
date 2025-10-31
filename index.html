@@ -1,16 +1,6 @@
 <!doctype html>
 <html lang="ru" data-theme="light">
-<html lang="ru" data-theme="light">
-<head/>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8LC7SHL9CQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-8LC7SHL9CQ');
-</script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Кристина амигуруми — Галерея</title>
@@ -21,6 +11,7 @@
   <link rel="icon" type="image/png" sizes="64x64" href="favicon-64.png">
   <link rel="icon" type="image/png" sizes="128x128" href="favicon-128.png">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+
   <link href="styles.css?v=1.3.2" rel="stylesheet" />
 </head>
 <body class="page">
@@ -46,14 +37,21 @@
   </header>
 
   <main class="container">
-    <div id="gallery" class="gallery" aria-live="polite"></div>
+    
+  <!-- HERO SLIDESHOW (auto from /photos/slideshow) -->
+  <section id="hero-slideshow" class="hero-slideshow" aria-label="Слайдшоу игрушек" hidden>
+    <div class="hero-slideshow__track" role="list"></div>
+    <div class="hero-slideshow__dots" aria-hidden="true"></div>
+  </section>
+
+  <div id="gallery" class="gallery" aria-live="polite"></div>
     <nav id="pagination" class="pagination" aria-label="Пагинация галереи" hidden></nav>
   </main>
 
   <footer class="site-footer">
     <div class="container footer-inner">
       <p id="footerL1">🧵 Амигуруми — маленькие радости, связанные с теплом.</p>
-      <p id="footerL2">© <span id="year"></span> </p>
+      <p id="footerL2">© <span id="year"></span> Твоё портфолио • Контакты: добавь email/instagram/telegram.</p>
     </div>
   </footer>
 
